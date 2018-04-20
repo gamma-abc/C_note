@@ -93,5 +93,5 @@ void main6() {
 void main() {
 	float f1 = 19.3e5;//e后只能为整数
 	printf("f1=%f", f1);
-	getchar();
+	getchar();	//暂停到当前
 }
